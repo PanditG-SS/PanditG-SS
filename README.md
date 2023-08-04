@@ -4,7 +4,7 @@
 <img src="coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
-Skills: C++ / Java / C / Python
+Skills: C++ / C / Python
 
 
 
