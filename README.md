@@ -7,9 +7,7 @@
 
 - 🔭 Upcoming Summer Associate at Finmechanics.
 
-- 👯 Project Mentor at Electrical Engineer Association & Electronics Club
-
-- 🎯 Helped 8+ startups grow by providing AI & Analytics consulting
+- 👯 Project Mentor at Electrical Engineers Association & Electronics Club
 
 - 👨‍💻 All of my projects are available at [https://github.com/PanditG-SS](https://github.com/PanditG-SS)
 
