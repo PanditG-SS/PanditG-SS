@@ -1,12 +1,20 @@
-### Hi there 👋, My name is Shobhit
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Shobhit</h1>
 
-### I'm an enthusiastic individual with a burning passion for ⚡️ Electronics & 💻 Coding.
-<img src="coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/PanditG-SS"><img src="https://readme-typing-svg.herokuapp.com?lines=BTech+at+Indian+Institute+of+Technology+Kanpur ;Electronics%2C+Coding+%26+Enthusiast;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
 
+- 🔭 Upcoming Summer Associate at Finmechanics.
 
-Skills: C++ / C / Python
+- 👯 Project Mentor at Electrical Engineer Association & Electronics Club
 
+- 🎯 Helped 8+ startups grow by providing AI & Analytics consulting
 
+- 👨‍💻 All of my projects are available at [https://github.com/PanditG-SS](https://github.com/PanditG-SS)
 
+- 💬 Reach me at **show.yes2002@gmail.com**
+
+<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=PanditG-SS&show_icons=true" alt="PanditG-SS" /> </p>
 
 
