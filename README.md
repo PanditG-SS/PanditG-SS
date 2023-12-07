@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/PanditG-SS/PanditG-SS/Hi.gif" width="40px" />, I'm Shobhit</h1>
+<h1 align="center">Hi ! I'm Shobhit</h1>
 
 <div align="center">
   
