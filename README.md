@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PanditG-SS/PanditG-SS/Hi.gif" width="40px" />, I'm Shobhit</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/PanditG-SS"><img src="https://readme-typing-svg.herokuapp.com?lines=BTech+at+Indian+Institute+of+Technology+Kanpur ;Electronics%2C+Coding+%26+Enthusiast;Always+learning+new+things&center=true&width=380&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Junior+at+Indian+Institute+of+Technology%2CKanpur;Electronics+%26+Coding+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 - 🔭 Upcoming Summer Associate at Finmechanics.
 
