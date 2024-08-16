@@ -6,7 +6,7 @@
   
 </div>
 
-- 🔭 Upcoming Summer Associate at Finmechanics.
+- 🔭 Ex-Summer Associate at Finmechanics.
 
 - 👯 Project Mentor at Electrical Engineers Association & Electronics Club
 
