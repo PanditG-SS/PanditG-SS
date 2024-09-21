@@ -14,6 +14,4 @@
 
 - 💬 Reach me at **show.yes2002@gmail.com**
 
-<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=PanditG-SS&show_icons=true" alt="PanditG-SS" /> </p>
-
 
